@@ -1,1 +1,1 @@
-This is a Spotify Clone.
+This is a Spotify Clone. Created by Aditya Koshta!
